@@ -1,4 +1,4 @@
-# Quizlet AutoBot (French / All Languages)
+# Quizlet AutoBot 
 
 This bot automates Quizlet study modes: **Flashcards, Learn, Write, Spell, Match, Test**.
 
