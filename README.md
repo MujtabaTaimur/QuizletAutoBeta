@@ -2,7 +2,7 @@
 
 This bot automates Quizlet study modes: **Flashcards, Learn, Write, Spell, Match, Test**.
 
-## ✅ Setup
+## Setup
 
 1. **Unzip the project** and `cd quizlet_autobot`
 2. Install dependencies:
@@ -11,7 +11,7 @@ This bot automates Quizlet study modes: **Flashcards, Learn, Write, Spell, Match
    playwright install
    ```
 
-## ✅ Usage
+## Usage
 
 Run on a single set:
 ```bash
@@ -28,6 +28,3 @@ python -m quizlet_autobot --set-file sets.txt --modes learn,write
 - `--headless` (default true): remove to show browser
 - Prompts for **username & password** securely at runtime.
 
-## ✅ Security
-- Credentials are never stored in code or files.
-- Do NOT use for cheating in classrooms (may violate Quizlet TOS).
